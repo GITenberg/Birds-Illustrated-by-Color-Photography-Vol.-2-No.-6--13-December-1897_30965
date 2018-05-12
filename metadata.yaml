@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30965#Birds-Illustrated-by-Color-Photography-Vol.-2-No.-6--13-December-1897
 gutenberg_bookshelf:
 - Birds, Illustrated by Color Photography
 - Animal
